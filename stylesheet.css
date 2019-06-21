@@ -1,0 +1,11 @@
+.header-logo {
+  padding:50px 50px;
+  color: red;
+  font-size: 50px;
+  border:10px solid black;
+}
+.header-list li {
+  font-size:30px;
+  float:left;
+  padding: 10px 30px 50px 10px;
+}
